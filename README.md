@@ -3,7 +3,7 @@
 ## I'm an Engineer who is enthusiast about Web Devolopment!
 
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently applying on HTML5, CSS3, JS, Jquery, Bootstrap. 
 - 👯 I’m looking to working with other content creators for free.
 - 🥅 2020 Goals: Master Front End Programming languages plus kick off the backend web devolopment.
 
@@ -29,7 +29,7 @@
 - Able to work with diverse team.
 - Leadership.
 - Emotional Intelligence.
-
+- Speaking Arabic and English fluently.
 ---
 
 ### Connect with me:
